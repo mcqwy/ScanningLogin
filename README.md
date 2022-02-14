@@ -21,8 +21,6 @@ ScanningLogin扫码登录服务端下载：[传送门-提取码：8888 ](https:/
 
 修改扫码登录服务端目录配置文件：\Login\server.properties
 
-![1234](https://user-images.githubusercontent.com/38318368/153858017-18d464c4-5148-4aca-8b3b-20e2c42c3605.jpg)
-
 示例：
 
 port=6666
@@ -30,6 +28,8 @@ port=6666
 http=op1115.6655.la:6666
 
 cdk=MjAyMi0wMy0wMQ==
+
+![1234](https://user-images.githubusercontent.com/38318368/153858296-860f8ff0-7b26-46ed-be95-7b3e885e25b1.png)
 
 
 
