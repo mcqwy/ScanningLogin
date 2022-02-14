@@ -9,17 +9,17 @@
 
 客户端MOD下载：
 ------
-[传送门1.12.2](https://www.mcbbs.net/thread-1304978-1-1.html)
+[传送门1.12.2-提取码：8888](https://pan.baidu.com/s/1McwX9YWX6uozSbk6fBhF7Q)
 
 [传送门1.7.10未实现](https://www.mcbbs.net/thread-1304978-1-1.html)
 
 BungeeCord登录验证插件下载：
 ------
-[传送门](https://www.mcbbs.net/thread-1304977-1-1.html)
+[百度云-提取码：8888](https://pan.baidu.com/s/1y5Zh6ZEnqc6s3JOL3y9fqg )
 
 ScanningLogin扫码登录服务端下载：
 ------
-[传送门-提取码：8888](https://pan.baidu.com/s/1NSIS0nBY2j8P5BjKLBDRLw 
+[百度云-提取码：8888](https://pan.baidu.com/s/1NSIS0nBY2j8P5BjKLBDRLw )
 
 
 扫码登录服务端使用说明：
