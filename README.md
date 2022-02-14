@@ -19,7 +19,7 @@ BungeeCord登录验证插件下载：
 
 ScanningLogin扫码登录服务端下载：
 ------
-[传送门-提取码：8888 ](https://pan.baidu.com/s/1NSIS0nBY2j8P5BjKLBDRLw 
+[传送门-提取码：8888](https://pan.baidu.com/s/1NSIS0nBY2j8P5BjKLBDRLw 
 
 
 扫码登录服务端使用说明：
