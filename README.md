@@ -8,17 +8,22 @@
 它需要 客户端MOD、BungeeCord登录验证插件、ScanningLogin扫码登录服务端、配合使用：
 
 客户端MOD下载：
+------
 [传送门1.12.2](https://www.mcbbs.net/thread-1304978-1-1.html)
+
 [传送门1.7.10未实现](https://www.mcbbs.net/thread-1304978-1-1.html)
 
-BungeeCord登录验证插件下载：[传送门](https://www.mcbbs.net/thread-1304977-1-1.html)
+BungeeCord登录验证插件下载：
+------
+[传送门](https://www.mcbbs.net/thread-1304977-1-1.html)
 
-ScanningLogin扫码登录服务端下载：[传送门-提取码：8888 ](https://pan.baidu.com/s/1NSIS0nBY2j8P5BjKLBDRLw 
+ScanningLogin扫码登录服务端下载：
+------
+[传送门-提取码：8888 ](https://pan.baidu.com/s/1NSIS0nBY2j8P5BjKLBDRLw 
 
 
-##扫码登录服务端使用说明：
-
-
+扫码登录服务端使用说明：
+------
 修改扫码登录服务端目录配置文件：\Login\server.properties
 
 示例：
@@ -33,8 +38,8 @@ cdk=MjAyMi0wMy0wMQ==
 
 
 
-##客户端MOD使用说明：
-
+客户端MOD使用说明：
+------
 修改minecraft客户端配置文件：\config\McqwyLogin\Login.cfg
 
 示例：
@@ -47,8 +52,8 @@ general {
 
 
 
-##BungeeCord登录验证插件使用说明：
-
+BungeeCord登录验证插件使用说明：
+------
 修改BungeeCord登录验证插件配置文件：\BungeeCord\plugins\Login\server.properties
 
 示例：
@@ -57,8 +62,8 @@ port=6666
 
 
 
-##已实现功能 和 未来功能
-
+已实现功能 和 未来功能
+------
 0.欢迎建议更多功能
 
 1.微信扫码登录√
